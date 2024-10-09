@@ -135,9 +135,9 @@ ORDER BY year ASC
 The Analysis Results is summarised as follows: 
 
 - The Company’s Top 3  Customers by ranking are 
- -  1st: EOG Resources : Bought a total of 56,410 items and has generated a Total revenue of  $382,870
- -  2nd: Mosaic : Bought a total of 49,246 items and has generated a Total revenue of $345,620
- -  3rd: IBM : Bought a total of 47,506 items and has generated a Total revenue of $326,820
+ - -  1st: EOG Resources : Bought a total of 56,410 items and has generated a Total revenue of  $382,870
+ - -  2nd: Mosaic : Bought a total of 49,246 items and has generated a Total revenue of $345,620
+ - -  3rd: IBM : Bought a total of 47,506 items and has generated a Total revenue of $326,820
 - The top 10 customers are buying smartphones and smartwatches in almost the same proportion with a slightly higher preference for smartphones .
 - The Overall Top selling product is smartphones, accounting for over 52% percent of total sales and Revenue. 
 - The top performing channel of sales is Direct channel, accounting for over 61 % percent of total  Sales and Revenue. 
