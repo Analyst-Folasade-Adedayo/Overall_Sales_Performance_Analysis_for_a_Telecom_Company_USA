@@ -3,6 +3,7 @@ A Data Analysis Project that Analyzed the sales performance of a Telecommunicati
 
 ## Project Overview:
 This Data Analysis Project aims to provide insights into the sales performance of a Telecommunication company Based in the United State. 
+
 __About the Company__: The Telecommunication Company operates a B2B business model and sells a wide variety of cell phones and devices, including __smartphones, tablets, smartwatches__. They offer devices from all of the major manufacturers, such as Apple, Samsung, Google, and Motorola.
 
 Various aspects of the company’s sales transaction data generated over the past years was analysed to gain insights into their Customer Behaviour, Product Popularity, Top Performing  Channel of Marketing, Regional Performance and Revenue Trends of the company since it began. 
